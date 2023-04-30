@@ -3,7 +3,7 @@ this script is used to guess the hash given inputs, with alterations.
 example: 
 https://twitter.com/ayrad0/status/1652671270423613442
 guessing the MD5 hash of an email confirmation link
-www.site.com/confirm_email/<hash>/
+www.site.com/confirm_email/<<hash>>/
 the hash could be just the User's email hashed or diffirent type of alterations (inputs) 
 
 
